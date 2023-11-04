@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31825.309
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TMS_MANTENIMIENTO.WEB", "ConautoDT.Web\TMS_MANTENIMIENTO.WEB.csproj", "{C7415201-1807-4E6F-873D-7528307D20A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VET_ANIMAL.WEB", "ConautoDT.Web\VET_ANIMAL.WEB.csproj", "{C7415201-1807-4E6F-873D-7528307D20A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
